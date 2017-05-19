@@ -262,6 +262,7 @@ remove(temp->right(),min->getValue());
 
 };
 int main(){
+	//optional commands only to test the program.
 	
 bst<int> s;
 BinaryTreeNode<int>* temp;
